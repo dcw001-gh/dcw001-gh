@@ -17,5 +17,5 @@ The SVG image boundaries have rounded clipping paths. Transparent backgrounds an
 - JavaScript: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 - Gmail badge: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-Devicon license: see DEVICON-LICENSE.txt. Original trademarks belong to their respective owners.
+Devicon license: see assets/rounded/DEVICON-LICENSE.txt. Original trademarks belong to their respective owners.
 Shields badge license: https://github.com/badges/shields/blob/master/LICENSE
