@@ -1,7 +1,7 @@
 ## Hi 👋! I'm Dexter
-🏫 I'm currently studying Information Management at National Central University, Taiwan
-🔭 I’m interested in AI, Data Science, Cybersecurity, UX/UI design, Web development, Medical Tech...<br>
-🌱 I’m currently exploring AI World！<br>
+🏫 I'm currently studying Information Management at National Central University, Taiwan <br>
+🔭 I’m interested in AI, Data Science, Cybersecurity, UX/UI design, Web development, Medical Tech... <br>
+🌱 I’m currently exploring AI World! <br>
 
 <p align="left">
   <img src="assets/coding-transparent.gif" alt="Coding animation" width="150" />
