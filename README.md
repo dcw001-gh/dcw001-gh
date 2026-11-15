@@ -3,8 +3,8 @@
 🔭 I’m interested in AI, Data Science, Cybersecurity, UX/UI design, Web development, Medical Tech...<br>
 🌱 I’m currently exploring AI World！<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gist/siddharth151199/14682974567534e7d396f6e7fa596696/raw/50cc1628f8918648b01d095dc027b9f81f0cba48/giphy.gif" alt="Coding animation" width="300" />
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTUydW83OGloNzh0bGE5c2F3Y3NuZnQyOW45emo2a3Mxd3VrMWlocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HgJ9IYhOFOk2JyVIA1/giphy.gif" alt="Coding animation" width="150" />
 </p>
 
 ## Languages and Tools
