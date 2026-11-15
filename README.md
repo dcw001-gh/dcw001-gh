@@ -13,6 +13,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="assets/rounded/docker.svg" alt="Docker" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/rounded/postgresql.svg" alt="PostgreSQL" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="assets/rounded/javascript.svg" alt="JavaScript" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="assets/rounded/python.svg" alt="Python" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi 4" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mqtt/660066" alt="MQTT" height="40" /></a>&nbsp;&nbsp;&nbsp;
