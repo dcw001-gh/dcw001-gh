@@ -1,4 +1,38 @@
-## Hi there 👋
+## Hi 👋! I'm Dexter, a student studying Information Management at National Central University, Taiwan
+
+🔭 I’m currently working on ...<br>
+🌱 I’m currently learning ...<br>
+
+## Languages and Tools
+
+<p align="left">
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="assets/rounded/c.svg" alt="C" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="assets/rounded/csharp.svg" alt="C#" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="assets/rounded/java.svg" alt="Java" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="assets/rounded/docker.svg" alt="Docker" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/rounded/postgresql.svg" alt="PostgreSQL" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="assets/rounded/javascript.svg" alt="JavaScript" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="assets/rounded/python.svg" alt="Python" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi 4" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mqtt/660066" alt="MQTT" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodered.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodered/nodered-original.svg" alt="Node-RED" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="assets/rounded/streamlit.svg" alt="Streamlit" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="assets/rounded/css.svg" alt="CSS3" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="assets/rounded/html.svg" alt="HTML5" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="assets/rounded/git.svg" alt="Git" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="assets/rounded/github.svg" alt="GitHub" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="assets/rounded/vscode.svg" alt="Visual Studio Code" height="40" /></a>
+</p>
+
+## Connect with me
+
+<a href="mailto:dcw00100@gmail.com" target="_blank"><img src="assets/rounded/gmail.svg" alt="Email Dexter" height="35" /></a>
+
+
+
+
+
 
 <!--
 **dcw001-gh/dcw001-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
