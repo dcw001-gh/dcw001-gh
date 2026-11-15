@@ -17,6 +17,7 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi 4" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mqtt/660066" alt="MQTT" height="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodered.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodered/nodered-original.svg" alt="Node-RED" height="40" /></a>&nbsp;&nbsp;&nbsp;
