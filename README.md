@@ -4,7 +4,7 @@
 🌱 I’m currently exploring AI World！<br>
 
 <p align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTUydW83OGloNzh0bGE5c2F3Y3NuZnQyOW45emo2a3Mxd3VrMWlocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HgJ9IYhOFOk2JyVIA1/giphy.gif" alt="Coding animation" width="150" />
+  <img src="assets/coding-transparent.gif" alt="Coding animation" width="150" />
 </p>
 
 ## Languages and Tools
