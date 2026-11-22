@@ -16,7 +16,8 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" /></a>
