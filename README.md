@@ -1,6 +1,6 @@
 ## Dexter (dcw001-gh) 👋
 🏫 I'm currently studying Information Management at National Central University, Taiwan <br>
-🔭 I’m interested in AI, Data Science, Cybersecurity, UX/UI design, Web development, Medical Tech... <br>
+🔭 I’m interested in AI, Data Science, Data Visualization, Cybersecurity, UX/UI design, Web development, Medical Tech... <br>
 🌱 I’m currently exploring AI World! <br>
 
 <p align="left">
@@ -54,9 +54,6 @@
 ## Connect with me
 
 <a href="mailto:dcw00100@gmail.com" target="_blank"><img src="assets/gmail.svg" alt="Email Dexter" height="35" /></a>
-
-
-
 
 
 
